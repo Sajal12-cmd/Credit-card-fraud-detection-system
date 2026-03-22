@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+models/*.pkl
+data/creditcard.csv
+*.log
+.pytest_cache/
